@@ -820,8 +820,11 @@ All available icons in CartoDB.
 }
 
 
-.CDB-IconFont-cartoFante::before {
-  content: '\E01E';
+.CDB-IconFont-cartoFante {
+  width:36px;
+  height:36px;
+  background-image: url('../images/bbg-icon.png');
+  background-size:contain;
 }
 
 
