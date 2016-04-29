@@ -685,13 +685,19 @@ All available icons in CartoDB.
 }
 
 
-.CDB-IconFont-heartEmpty::before {
-  content: '\E003';
+.CDB-IconFont-heartEmpty {
+  width: inherit;
+  height: inherit;
+  background-image: url('../images/sprites/common/star_32.png');
+  background-size:contain;
 }
 
 
-.CDB-IconFont-heartFill::before {
-  content: '\E004';
+.CDB-IconFont-heartFill {
+  width: inherit;
+  height: inherit;
+  background-image: url('../images/sprites/common/star_32.png');
+  background-size:contain;
 }
 
 
