@@ -688,7 +688,7 @@ All available icons in CartoDB.
 .CDB-IconFont-heartEmpty {
   width: inherit;
   height: inherit;
-  background-image: url('../images/sprites/common/star_32.png');
+  background-image: url('../images/favorite_off.svg');
   background-size:contain;
 }
 
@@ -696,7 +696,7 @@ All available icons in CartoDB.
 .CDB-IconFont-heartFill {
   width: inherit;
   height: inherit;
-  background-image: url('../images/sprites/common/star_32.png');
+  background-image: url('../images/favorite_on.svg');
   background-size:contain;
 }
 
